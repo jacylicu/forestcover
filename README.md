@@ -1,5 +1,7 @@
 Forest Cover Classification
 
+Data be downloaded at: https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
+
 
 Introduction
 Problem
